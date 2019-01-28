@@ -3,3 +3,4 @@ Git is free software
 Git is friendly software
 new word has been settled
 Git is a distributed version control system
+Git has a mutable index called stage
